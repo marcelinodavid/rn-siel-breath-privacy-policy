@@ -92,9 +92,9 @@ Aunque la aplicación no almacena contenido del usuario en servidores externos, 
 
 ## 6. Menores de edad
 
-Siel Breath está dirigida a adolescentes y adultos interesados en practicar respiración consciente y desarrollar hábitos personales de bienestar.
+Siel Breath está dirigida a adultos interesados en practicar respiración consciente y desarrollar hábitos personales de bienestar.
 
-La aplicación no está diseñada específicamente para niños menores de 13 años y no recopila intencionalmente información personal de menores.
+La aplicación no está diseñada específicamente para menores de edad y no recopila intencionalmente información personal de menores.
 
 ---
 
